@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Techystar-Sass-Project
+
+![Screenshot from 2022-11-28 18-18-22](https://user-images.githubusercontent.com/110123287/204281809-329ef15e-6d95-469e-a9f8-fc62686e793b.png)
